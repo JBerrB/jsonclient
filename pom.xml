@@ -6,8 +6,8 @@
   <name>jsonclient</name>
   
   <scm>
-  	<developerConnection>scm:git:ssh://github.com/jberrb/jsonclient.git</developerConnection>
-  	<url>https://github.com/jberrb/jsonclient</url>
+  	<developerConnection>scm:git:git@github.com:jberrb/jsonclient.git</developerConnection>
+  	<url>git@github.com:jberrb/jsonclient.git</url>
     <tag>HEAD</tag>
   </scm>
   
