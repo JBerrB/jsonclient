@@ -2,13 +2,13 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.jberrb</groupId>
   <artifactId>jsonclient</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
   <name>jsonclient</name>
   
   <scm>
   	<developerConnection>scm:git:git@github.com:jberrb/jsonclient.git</developerConnection>
   	<url>git@github.com:jberrb/jsonclient.git</url>
-    <tag>HEAD</tag>
+    <tag>jsonclient-0.0.1</tag>
   </scm>
   
   <dependencies>
