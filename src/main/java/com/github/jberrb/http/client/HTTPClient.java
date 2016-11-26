@@ -12,7 +12,6 @@ import org.apache.http.impl.client.CloseableHttpClient;
 import org.apache.http.impl.client.HttpClients;
 import org.slf4j.LoggerFactory;
 
-import com.github.jberrb.jsonplaceholder.JsonPlaceholderClient;
 import com.google.gson.Gson;
 
 import ch.qos.logback.classic.Logger;
@@ -20,7 +19,7 @@ import ch.qos.logback.classic.Logger;
 public class HTTPClient {
 	
 	private static final int INITIAL_ARRAY_LENGTH = 100;
-	protected static final Logger LOGGER = (Logger) LoggerFactory.getLogger(JsonPlaceholderClient.class);
+	protected static final Logger LOGGER = (Logger) LoggerFactory.getLogger(HTTPClient.class);
 	
 	protected CloseableHttpClient httpclient;
 	protected URL baseUrl;

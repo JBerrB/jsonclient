@@ -2,7 +2,7 @@ package com.github.jberrb.jsonplaceholder;
 
 import java.util.List;
 
-import com.github.jberr.file.json.JsonFileManager;
+import com.github.jberrb.file.json.JsonFileManager;
 
 public class JsonPlaceholderFileManager extends JsonFileManager {
 	

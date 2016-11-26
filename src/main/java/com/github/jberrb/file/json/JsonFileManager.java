@@ -1,4 +1,4 @@
-package com.github.jberr.file.json;
+package com.github.jberrb.file.json;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
